@@ -11,7 +11,8 @@ In this project you are given a web-based application that reads RSS feeds. The 
 * 1- To view the feedreader website download the files by clicking here : https://github.com/Abdullah-AlQahtani/frontend-nanodegree-feedreader/archive/master.zip
 * 2- Extract All the files
 * 3- open index.html with your browser
-* 4- Have Fun
+* 4- There should be several test results at the bottom of the screen
+* 5- Have Fun
 
 ## Demo
 
